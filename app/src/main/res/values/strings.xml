@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">vrtmp-android-example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="start_stream">Start Streaming</string>
+    <string name="stop_stream">Stop Streaming</string>
+</resources>
